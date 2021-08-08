@@ -24,7 +24,7 @@
     <styleItemTags>
 	  <li>
         <tag>RBhair</tag>
-        <baseWeight>1</baseWeight>
+        <baseWeight>100</baseWeight>
         <weightFactor>1</weightFactor>
       </li>
       <li>

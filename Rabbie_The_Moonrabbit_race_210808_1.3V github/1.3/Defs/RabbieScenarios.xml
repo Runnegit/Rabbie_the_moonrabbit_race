@@ -11,7 +11,6 @@
         <factionDef>RB_PlayerFaction</factionDef>
       </playerFaction>
       <parts>
-
         <!-- Config pages -->
         <li Class="ScenPart_ConfigPage_ConfigureStartingPawns">
           <def>ConfigPage_ConfigureStartingPawns</def>
